@@ -1,10 +1,10 @@
 body{
     background-color:#D6D6D6;
 }
-p{
+a{
     background-color: white;
     padding: 20px;
 }
-p:hover{
+a:hover{
     border-color: blue;
 }
